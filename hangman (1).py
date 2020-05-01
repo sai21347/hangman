@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import random
 def hangman():
        word = random.choice(["google","chrome","youtube","jupyter","python","gmail","maps","drive","duo","photos"])
@@ -97,10 +91,7 @@ print()
                
                    
                    
-                   
-
-
-# In[ ]:
+                 
 
 
 
